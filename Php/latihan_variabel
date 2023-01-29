@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>Latihan Variabel</title>
+</head>
+<?php	
+	
+	$kode_barang ="B123";
+	$harga ="50000";
+	$jumlah_beli ="6";
+	$jumlah_harga =300000;
+	$diskon =10%;
+	$jumlah_harga = $harga * $jumlah_beli;
+	$diskon = 0.1 * $jumlah_harga;
+	$total = $jumlah_harga * $diskon;
+
+	echo "kode_barang =$kode_barang<br>";
+	echo "harga =$harga<br>";
+	echo "jumlah_beli =$jumlah_beli<br>";
+	echo "jumlah_harga =$jumlah_harga<br>";
+	echo "diskon =$diskon<br>";
+	echo "jumlah_harga =$total";
+
+?>
+</body>
+</html>

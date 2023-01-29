@@ -1,0 +1,27 @@
+body[
+     margin-botton; 0px;
+     padding; 0px;
+     background: wr](ig.jpg);
+     background-posittion: center;
+     font-family: sms-serif;
+     helght: 100vh;
+}
+*login-box[
+   width; 320px;
+   heleght: 420px;
+   background : rgbh(0,0,0,0,5);
+   color: #fff;
+   top: 50%;
+   left: 50%;
+   position: absolute;
+   box-string: bolder-box;
+   padding: 70px;
+   transform: translate(-50%, -50%;);
+}
+Levater{
+	wldter 100px;
+	herlight: 100px;
+	border-radius: absoluter;
+	top: -50%;
+	left: calc(50%-50%);
+}
